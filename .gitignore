@@ -1,4 +1,5 @@
-# Ignorar a pasta pycache
+# Ignorar pastas
+.vscode/
  __pycache__/
 # Ignorar arquivos .env
 *.env
